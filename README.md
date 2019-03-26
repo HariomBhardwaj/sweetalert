@@ -1,0 +1,2 @@
+# sweetalert
+sweetalert npm module
